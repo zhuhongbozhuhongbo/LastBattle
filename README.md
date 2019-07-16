@@ -4,6 +4,6 @@ MOBA手游最后一战服务器源码，代码来自网络，编译环境为vs20
 
 **注意：本工程是基于vs2010创建的，在使用时如果编辑器版本高于vs2010，一定不要升级编译版本，否则会出现异常错误**  
 
-##服务端源码分析参考
-[最后一战(LastBattle)服务器源码分析一——服务器架构](https://blog.csdn.net/sky1work2/article/details/95639311)
+## 服务端源码分析参考  
+[最后一战(LastBattle)服务器源码分析一——服务器架构](https://blog.csdn.net/sky1work2/article/details/95639311)  
 希望大家可以互相学习，有问题直接在博客下讨论。
